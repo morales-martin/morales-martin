@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm a Software Engineer with a B.S. in Computer Science. Currently working on personal projects / freelancing and on the search for a Full Stack Software Engineering role.
 
 ## ⚒️ Projects:
-<br />>[Chord Search](https://github.com/morales-martin/Chord-Search)
-*Technologies: Node JS, MongoDB, React JS, Express JS, AWS S3*
+>[Chord Search](https://github.com/morales-martin/Chord-Search)
+<br />*Technologies: Node JS, MongoDB, React JS, Express JS, AWS S3*
 - Developed web-based search platform for guitar players, which displays a grid of diagrams for accurate chord finger placement. - All diagrams (including interactive) are drawn using the HTML Canvas feature
 - Data is pulled from both a MongoDB database and a third-party API via a Serverless AWS Lambda function.
 - Additional features: Night mode toggle and adding custom guitar chords
