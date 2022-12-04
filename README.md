@@ -28,7 +28,7 @@ I'm a Software Engineer with a B.S. in Computer Science. Currently working on pe
 E-Mail: [morales-martin@outlook.com](mailto:morales-martin@outlook.com)<br />
 LinkedIn: [Martin Morales](https://www.linkedin.com/in/morales-martin24/)
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/morales-martin/morales-martin/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **morales-martin/morales-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
