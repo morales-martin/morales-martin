@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Martin 👋
 
 I'm a Software Engineer with a B.S. in Computer Science. Currently working on personal projects / freelancing and on the search for a Full Stack Software Engineering role.
 
