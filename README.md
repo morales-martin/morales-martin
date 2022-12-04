@@ -2,7 +2,7 @@
 
 I'm a Software Engineer with a B.S. in Computer Science. Currently working on personal projects / freelancing and on the search for a Full Stack Software Engineering role.
 
-##⚒️ Projects:
+## ⚒️ Projects:
 <br />>[Chord Search](https://github.com/morales-martin/Chord-Search)
 *Technologies: Node JS, MongoDB, React JS, Express JS, AWS S3*
 - Developed web-based search platform for guitar players, which displays a grid of diagrams for accurate chord finger placement. - All diagrams (including interactive) are drawn using the HTML Canvas feature
@@ -23,7 +23,7 @@ I'm a Software Engineer with a B.S. in Computer Science. Currently working on pe
 - Utilized AWS Ampliy CLI to push and publish final product
 
 
-##📫 How to reach me: ...
+## 📫 How to reach me: ...
 
 E-Mail: [morales-martin@outlook.com](mailto:morales-martin@outlook.com)<br />
 LinkedIn: [Martin Morales](https://www.linkedin.com/in/morales-martin24/)
