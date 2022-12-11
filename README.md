@@ -12,7 +12,7 @@ I'm a Software Engineer with a B.S. in Computer Science. Currently working on pe
 
 
 >[Quickbnb](https://github.com/morales-martin/Simple-Airbnb-Search)
-<br />*Technologies: Node JS, MongoDB, React JS, Express JS, AWS Lambda*
+<br />*Technologies: Node JS, React JS*
 - Developed web-based platform for users to quickly search and share Airbnb listings pulled from a third-party Airbnb API based on search criteria (e.g. Location, Check-in / Check-out, # guests)
 - Implemented functionality for users to select and share multiple listings with multiple email addresses
 - Additional features: Sort results by Price (ascending or descending)
