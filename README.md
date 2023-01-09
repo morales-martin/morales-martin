@@ -20,7 +20,7 @@ I'm a Software Engineer with a B.S. in Computer Science. Currently working on pe
 
 >[Chord Search API](https://github.com/morales-martin/chord-search-api)
 <br />*Technologies: Express JS, AWS Amplify, AWS Lambda*
-- Developed Serverless Express Lambda API to GET / POST records from / to MongoDB database
+- Developed Serverless Express Lambda REST API to GET / POST records from / to MongoDB database
 - Utilized AWS Ampliy CLI to push and publish final product
 
 
