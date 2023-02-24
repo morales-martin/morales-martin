@@ -3,6 +3,12 @@
 I'm a Software Engineer with a B.S. in Computer Science. Currently working on personal projects / freelancing and on the search for a Full Stack Software Engineering role.
 
 ## ⚒️ Projects:
+>[To Do - Task Manager](https://github.com/morales-martin/todo-app)
+<br />*Technologies: Next.js, AWS AppSync, AWS Amplify, AWS DynamoDB, GraphQL API, NextAuth.js, MaterialUI*
+- A 'Todo' Next.js web platform provides users with a task management interface that allows for the creation, update, and deletion of tasks
+- Additional features include: task flags / category 'chips', task status filtering, user authentication, user-authenticated saved tasks, and real-time updates
+- Hosted on: Vercel
+
 >[Chord Search](https://github.com/morales-martin/Chord-Search)
 <br />*Technologies: Node JS, MongoDB, React JS, Express JS, AWS S3*
 - Developed web-based search platform for guitar players, which displays a grid of diagrams for accurate chord finger placement. - All diagrams (including interactive) are drawn using the HTML Canvas feature
